@@ -20,9 +20,11 @@ In his dissertation, he explores the interaction between ruling parties and citi
 
 Louis-Philippe is a PhD student in comparative politics, studying authoritarian politics in post-communist societies. He is particularly attentive to the role that identity, affect, and memory play in either inspiring or discouraging resistance to authoritarian regimes, as well as to how authoritarian elites seek to legitimate their rule. Research on historical persistence, religion, and the legacies of violence also fall within the purview of my scholarly interests.
 
-** Nikolai Munchkin ***
+**Nikolai Munchkin**
 
-TEXT text
+Nikolai is a Ph.D. candidate at the Department of Politics and Public Administration, the University of Hong Kong. His research interests include comparative authoritarianism, elite institutions, leadership succession, informal politics, and communist regimes.
+
+Before joining the HKU, He obtained his bachelor's and master's degree in Eastern Asian studies at the Moscow State University, focusing on Chinese history and politics. Besides the academic research, Nikolai worked as a Russian - Chinese interpreter for the leadership of the Moscow State University and numerous government institutions. He held visiting position at the University of California Los Angeles. His work has been published in Communist and Post-Communist Studies.
 
 **[Felix Wiebracht](https://www.felixwiebrecht.com)**
 
