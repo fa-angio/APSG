@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+# Site navigation links
+- title: Home
+  url: /
+
+- title: People
+  url: /people/
