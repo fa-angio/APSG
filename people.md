@@ -2,7 +2,7 @@
 People
 ---
 
-**[https://www.fangiolillo.com] (Fabio Angiolillo)**
+**[Fabio Angiolillo] (https://www.fangiolillo.com)**
 
 Fabio is a PhD candidate at the Department of Politics and Public Administration at The University of Hong Kong (HKU). During the Academic Year 2021/2022, I will be visiting the Department of Government at Cornell.
 
