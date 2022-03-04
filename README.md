@@ -1,7 +1,7 @@
-# The Authoritarian Political Systems' Group
+# The Authoritarian Political Systems Group
 
 
-The Authoritarian Political Systems' Group (APSG) is an online seminar series for researchers studying issues of authoritarian politics. We intend to connect researchers working on different aspects of autocracies and with different regional concentrations. Our bi-weekly seminar will provide an opportunity to receive feedback on their work in progress.
+The Authoritarian Political Systems Group (APSG) is an online seminar series for researchers studying issues of authoritarian politics. We intend to connect researchers working on different aspects of autocracies and with different regional concentrations. Our bi-weekly seminar will provide an opportunity to receive feedback on their work in progress.
 
 We welcome presentations by scholars in comparative politics, international relations, and political theory as well as with different methodological approaches (e.g., qualitative, quantitative, formal modeling, etc.). We particularly encourage submissions from traditionally underrepresented groups including women and minorities, as well as early-carreer scholars (e.g., graduate students, post-docs, junior faculty).
 
