@@ -41,7 +41,7 @@ Nikolai is a Ph.D. Candidate at the Department of Politics and Public Administra
 
 Before joining the HKU, He obtained his bachelor's and master's degree in Eastern Asian studies at the Moscow State University, focusing on Chinese history and politics. Besides the academic research, Nikolai worked as a Russian - Chinese interpreter for the leadership of the Moscow State University and numerous government institutions. He held visiting position at the University of California Los Angeles. His work has been published in Communist and Post-Communist Studies.
 
-**[Felix Wiebracht](https://www.felixwiebrecht.com)**
+**[Felix Wiebrecht](https://www.felixwiebrecht.com)**
 
 Felix is a PhD Candidate in the Department of Government and Public Administration at The Chinese University of Hong Kong (CUHK), and currently visiting scholar at the Central European University (CEU). 
 
