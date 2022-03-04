@@ -5,7 +5,7 @@ The Authoritarian Political Systems Group (APSG) is an online seminar series for
 
 We welcome presentations by scholars in comparative politics, international relations, and political theory as well as with different methodological approaches (e.g., qualitative, quantitative, formal modeling, etc.). We particularly encourage submissions from traditionally underrepresented groups including women and minorities, as well as early-carreer scholars (e.g., graduate students, post-docs, junior faculty).
 
-The APSG online seminar will be held every other week on Thursdays between **3:00-4:00 PM Central European Time (9:00-10:00 AM US East Coast Time, 9:00-10:00 PM Eastern Time)**. The workshop will last one hour. After a brief presentation by the author(s), two discussants will provide comments and suggestions. We then open the floor for further questions and comments from the audience.
+The APSG online seminar will be held every other week on Tuesdays between **5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST)**. The workshop will last one hour. After a brief presentation by the author(s), two discussants will provide comments and suggestions. We then open the floor for further questions and comments from the audience.
 
 [Sign Up to Present Your Work!](https://docs.google.com/forms/d/e/1FAIpQLSd1g1QK-yOHL8eWlZLjdzqASH0V7UsBhoNxGXipasVo1iX59g/viewform?embedded=true)
 
