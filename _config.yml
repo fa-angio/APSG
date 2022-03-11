@@ -3,9 +3,10 @@ theme: jekyll-theme-slate
 
 
 navigation:
-  - {file: "people.md", title: "People", icon: people}
-  - {file: "calendar", title: "Calendar", icon: calendar}
-  - {file: "README.md", title: "Home", icon: home}
+navigation.yml
+  #- {file: "people.md", title: "People", icon: people}
+  #- {file: "calendar", title: "Calendar", icon: calendar}
+  #- {file: "README.md", title: "Home", icon: home}
   
 #external:
 #  - {title: Mail, icon: people}
