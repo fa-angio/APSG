@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 
 
 navigation:
-  - {file: "people", title: "People", icon: people}
+  - {file: "people.md", title: "People", icon: people}
   - {file: "calendar", title: "Calendar", icon: calendar}
   - {file: "README.md", title: "Home", icon: home}
   
