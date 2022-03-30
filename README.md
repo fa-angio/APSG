@@ -9,15 +9,35 @@ The APSG online seminar will be held every other week on Tuesdays between **5:00
 
 [Sign Up to Present Your Work!](https://docs.google.com/forms/d/e/1FAIpQLSd1g1QK-yOHL8eWlZLjdzqASH0V7UsBhoNxGXipasVo1iX59g/viewform?embedded=true)
 
+
+# Workshop Series – Spring 2022 Calendar:
+
+- 3 May: "Teachers as State-Builders: Public Education and Land Reform in Post-Revolutionary Mexico"
+
+Presenter: Manuel Cabal (University of Chicago)
+Discussants: Francisco Cantu (University of Houston), Jenny Guardado (University of Georgetown), Emily Sellars (Yale)
+
+- 31 May: 
+
+Presenter: Maria Chiara Franceschelli (Scuola Normale Superiore)
+Discussants: TBA
+
+- 14 June: "Transparency for Authoritarian Stability: Open Government Information and Contention with Institutions in China"
+
+Presenter: Handi Li (Emory University)
+Discussants: TBA
+
+
+If you want to be notified for upcoming events and opportunitites, send us an email at [apsgworkshop@gmail.com](apsgworkshop@gmail.com) with the text "*Updates Please.*" We will add you to **our newsletter**!
+
 # Seminar Rules: 
 
 1.	Regular seminars will be open to the public and last one hour.
 2.	We will recruit two discussants to read each paper and provide feedback. Please provide us with the names of 3-4 suitable discussants. 
-3.	Please share the working paper with us at least seven days before the presentation date to give the discussants sufficient time to read it. 
+3.	Please share the working paper with us at least 14 days before the presentation date to give the discussants sufficient time to read it. 
 4.	The authors will introduce their work in a 15-minute presentation at the beginning of each session. 
 5.	The discussants then have 10 minutes each to share their comments about the paper. After that, we will open the floor to the audience to participate. 
 6.	We also encourage the discussants to provide additional feedback to the presenters via email after the seminar. 
-
 
 
 # People
@@ -30,10 +50,6 @@ Fabio is a PhD candidate at the Department of Politics and Public Administration
 His research interests center on comparative politics, authoritarian political institutions, political behavior, and political economy. He combines quantitative methods, time series, panel data, and extensive qualitative fieldwork research.
 
 In his dissertation, he explores the interaction between ruling parties and citizens in closed authoritarian regimes, the strategies ruling parties implement to maintain stability, and citizens political behavior towards the ruling party.
-
-**[Louis-Philippe Brochu](https://government.cornell.edu/louis-philippe-brochu)**
-
-Louis-Philippe is a PhD student in comparative politics at Cornell, studying authoritarian politics in post-communist societies. He is particularly attentive to the role that identity, affect, and memory play in either inspiring or discouraging resistance to authoritarian regimes, as well as to how authoritarian elites seek to legitimate their rule. Research on historical persistence, religion, and the legacies of violence also fall within the purview of my scholarly interests.
 
 **Nikolai Mukhin**
 
